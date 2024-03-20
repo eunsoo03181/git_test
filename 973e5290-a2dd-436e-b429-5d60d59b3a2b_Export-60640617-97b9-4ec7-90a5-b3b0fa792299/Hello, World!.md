@@ -33,7 +33,7 @@ Java는 모든 운영체제에서 실행이 가능하다고 했지만, 전제 �
 
 Java를 실행하기 위해서는 JVM이 필수적으로 설치되어 있어야 합니다.
 
-![Untitled](1%20Hello,%20World!%20(1)%205dfcfc681cf542ff92765824721d3440/Untitled.png)
+![Untitled](1%20Hello,%20World!%20/Untitled.png)
 
 사용자가 만든 Java 소스 코드는 javac(Java 컴파일러)를 통해 컴파일* 되어 바이트코드**로 변환합니다.
 
